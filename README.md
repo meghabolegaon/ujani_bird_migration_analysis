@@ -56,6 +56,32 @@ repository-relative file paths.
 - Recognition of dominant migratory bird species  
 
 ---
+---
+
+## Conclusion
+This analysis demonstrates clear seasonal patterns in bird migration at
+Ujani Dam. Certain seasons show significantly higher bird abundance and
+greater species diversity, indicating favorable ecological and climatic
+conditions during those periods. The presence of dominant migratory species
+highlights the importance of Ujani Dam as a key habitat for seasonal bird
+movement.
+
+The visualizations make these patterns easily interpretable and support
+data-driven observations about migration trends and biodiversity.
+
+---
+
+## Future Scope
+This project can be extended in several ways:
+
+- Incorporating multiple years of data to study long-term migration trends  
+- Applying machine learning models to predict bird abundance by season  
+- Integrating weather and water-level data to analyze environmental impact  
+- Connecting with real-time data sources such as eBird APIs  
+- Developing an interactive dashboard for conservation and tourism planning  
+
+These extensions would strengthen the project’s applicability in ecological
+research and environmental management.
 
 ## Author
 **Megha Bolegaon**  
